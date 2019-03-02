@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://blog.iacono.com.br/* https://blog.iacono.dev/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://iaconoblog.netlify.com/* https://blog.iacono.dev/:splat 301!
